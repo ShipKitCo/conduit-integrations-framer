@@ -81,11 +81,11 @@ Scroll-reveal animations respect `prefers-reduced-motion`.
 
 ---
 
-## Purchase
+## Get the Template
 
-Available on Gumroad: [https://shipkitco.gumroad.com/l/conduit-integrations-framer](https://shipkitco.gumroad.com/l/conduit-integrations-framer)
+**Remix Link (Framer):** [https://framer.com/remix/4OxYo8fkmC34WQ547j1M](https://framer.com/remix/4OxYo8fkmC34WQ547j1M)
 
-Also available on Framer Marketplace and Creative Market.
+Also available on Gumroad and Framer Marketplace.
 
 ---
 
